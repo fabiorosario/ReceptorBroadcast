@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastReceiverChangeWifi</string>
+    <string name="ssid_hint">Digite o SSID</string>
+    <string name="ssid_rotulo">SSID ESPERADO</string>
+</resources>
